@@ -1,23 +1,36 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Hi!</h1>
+        <p className="name">I am Srijan Sharma</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I study Information Technology at Bhilai Institute of Technology,
+          Durg. I have experience with Django, Flutter, Vue.js and React. You
+          can find my work on <a href="https://github.com/srijans38">Github</a>.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Apart from this, I am a space nerd{" "}
+          <span role="img" aria-label="space">
+            🚀
+          </span>
+          , a Formula 1 fan{" "}
+          <span role="img" aria-label="space" className="f1">
+            🏎️
+          </span>{" "}
+          and support FC Barcelona{" "}
+          <span role="img" aria-label="space">
+            🔵🔴
+          </span>{" "}
+        </p>
+        <p>
+          You can also find me on{" "}
+          <a href="https://www.instagram.com/theguywithabignose/">Instagram</a>{" "}
+          or <a href="mailto:srijans38@gmail.com">Email</a>.
+        </p>
       </header>
     </div>
   );

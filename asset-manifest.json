@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.28c0cc74.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.5605e08a.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.5605e08a.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.30821a97.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.30821a97.js.map",
-    "static/js/2.391672fe.chunk.js": "/react-gh-pages/static/js/2.391672fe.chunk.js",
-    "static/js/2.391672fe.chunk.js.map": "/react-gh-pages/static/js/2.391672fe.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.9b8974d106441e715e44d32df0f8df03.js": "/react-gh-pages/precache-manifest.9b8974d106441e715e44d32df0f8df03.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.28c0cc74.chunk.css.map": "/react-gh-pages/static/css/main.28c0cc74.chunk.css.map",
-    "static/js/2.391672fe.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.391672fe.chunk.js.LICENSE.txt"
+    "main.css": "/srijans38.github.io/static/css/main.28c0cc74.chunk.css",
+    "main.js": "/srijans38.github.io/static/js/main.65688f93.chunk.js",
+    "main.js.map": "/srijans38.github.io/static/js/main.65688f93.chunk.js.map",
+    "runtime-main.js": "/srijans38.github.io/static/js/runtime-main.813c6060.js",
+    "runtime-main.js.map": "/srijans38.github.io/static/js/runtime-main.813c6060.js.map",
+    "static/js/2.391672fe.chunk.js": "/srijans38.github.io/static/js/2.391672fe.chunk.js",
+    "static/js/2.391672fe.chunk.js.map": "/srijans38.github.io/static/js/2.391672fe.chunk.js.map",
+    "index.html": "/srijans38.github.io/index.html",
+    "precache-manifest.f1801141862523fb764efcae30e257de.js": "/srijans38.github.io/precache-manifest.f1801141862523fb764efcae30e257de.js",
+    "service-worker.js": "/srijans38.github.io/service-worker.js",
+    "static/css/main.28c0cc74.chunk.css.map": "/srijans38.github.io/static/css/main.28c0cc74.chunk.css.map",
+    "static/js/2.391672fe.chunk.js.LICENSE.txt": "/srijans38.github.io/static/js/2.391672fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30821a97.js",
+    "static/js/runtime-main.813c6060.js",
     "static/js/2.391672fe.chunk.js",
     "static/css/main.28c0cc74.chunk.css",
-    "static/js/main.5605e08a.chunk.js"
+    "static/js/main.65688f93.chunk.js"
   ]
 }

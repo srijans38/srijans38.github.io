@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/srijans38.github.io/static/css/main.59b5ef3d.chunk.css",
+    "main.css": "/srijans38.github.io/static/css/main.cbafae83.chunk.css",
     "main.js": "/srijans38.github.io/static/js/main.7e5fe183.chunk.js",
     "main.js.map": "/srijans38.github.io/static/js/main.7e5fe183.chunk.js.map",
     "runtime-main.js": "/srijans38.github.io/static/js/runtime-main.813c6060.js",
@@ -8,15 +8,15 @@
     "static/js/2.391672fe.chunk.js": "/srijans38.github.io/static/js/2.391672fe.chunk.js",
     "static/js/2.391672fe.chunk.js.map": "/srijans38.github.io/static/js/2.391672fe.chunk.js.map",
     "index.html": "/srijans38.github.io/index.html",
-    "precache-manifest.e7b4ec7c1e72f7080a001929af011b2a.js": "/srijans38.github.io/precache-manifest.e7b4ec7c1e72f7080a001929af011b2a.js",
+    "precache-manifest.4b241c4fb8bbfa0e7a9895447ad0abff.js": "/srijans38.github.io/precache-manifest.4b241c4fb8bbfa0e7a9895447ad0abff.js",
     "service-worker.js": "/srijans38.github.io/service-worker.js",
-    "static/css/main.59b5ef3d.chunk.css.map": "/srijans38.github.io/static/css/main.59b5ef3d.chunk.css.map",
+    "static/css/main.cbafae83.chunk.css.map": "/srijans38.github.io/static/css/main.cbafae83.chunk.css.map",
     "static/js/2.391672fe.chunk.js.LICENSE.txt": "/srijans38.github.io/static/js/2.391672fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.813c6060.js",
     "static/js/2.391672fe.chunk.js",
-    "static/css/main.59b5ef3d.chunk.css",
+    "static/css/main.cbafae83.chunk.css",
     "static/js/main.7e5fe183.chunk.js"
   ]
 }
